@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Bruno Tostes",
+      "email": "btfjulio@hotmail.com"
+    },
+    {
+      "name": "Marina Kiyan",
+      "email": "mkiyan@lindona.com.br",
+      "id": 3
+    }
+  ]
+}
